@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.m \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native/Libraries/Network/RCTFileRequestHandler.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestHandler.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTURLRequestDelegate.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h

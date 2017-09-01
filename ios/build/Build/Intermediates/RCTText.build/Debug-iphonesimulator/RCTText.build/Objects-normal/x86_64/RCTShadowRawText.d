@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native/Libraries/Text/RCTShadowRawText.m \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native/Libraries/Text/RCTShadowRawText.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h

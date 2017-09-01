@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/RCTMapboxGL/MGLPolygon+RCTAdditions.m \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/RCTMapboxGL/MGLPolygon+RCTAdditions.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Modules/module.modulemap \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/NSValue+MGLAdditions.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLUserLocation.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLTilePyramidOfflineRegion.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLStyle.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOfflineStorage.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOfflineRegion.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOfflinePack.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapViewDelegate.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapView+MGLCustomStyleLayerAdditions.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapView+IBAdditions.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapView.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMapCamera.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLShapeCollection.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLPointAnnotation.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLPolygon.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLGeometry.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLOverlay.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLShape.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLMultiPoint.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLPolyline.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLFeature.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLCoordinateFormatter.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLCompassDirectionFormatter.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLClockDirectionFormatter.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLCalloutView.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAnnotationImage.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAnnotation.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAccountManager.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLTypes.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/MGLAnnotationView.h \
+  /Users/benkleinbaum/Desktop/greenwood-app-master/node_modules/react-native-mapbox-gl/ios/Mapbox.framework/Headers/Mapbox.h
